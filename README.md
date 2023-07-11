@@ -1,5 +1,6 @@
+**프론트엔드 개발자가 꿈인**
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=yunseo%20&fontSize=90" />
-프론트엔드 개발자가 되는 것이 꿈입니다.
+
 <!--
 **yunse0708/yunse0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
