@@ -1,4 +1,4 @@
-# YUN SEO☺️
+# Hi, I'm YUN SEO☺️
 #### **Front-End** Developer
 
 #### stack
