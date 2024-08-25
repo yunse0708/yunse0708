@@ -19,9 +19,5 @@
         <a href="https://www.instagram.com/radiant._.17/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
       </a>
-      <a href="mailto:thddbs07@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
-      </a>
-     
 </div>
   
