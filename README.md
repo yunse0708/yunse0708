@@ -1,4 +1,5 @@
-## 🫧 Front-end Developer
+<b> 🌸 윤서의 깃허브 </b>
+> Front-end Developer
 
 <a href="https://github.com/devxb/gitanimals">
   <img
