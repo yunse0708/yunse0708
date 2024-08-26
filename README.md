@@ -1,4 +1,4 @@
-<b> 🙈 윤서의 깃허브 </b>
+### 🙈 윤서의 깃허브
 > Front-end Developer
 
 <a href="https://github.com/devxb/gitanimals">
