@@ -1,5 +1,5 @@
 ### 🙈 윤서의 깃허브
-> Front-end Developer
+> Frontend Developer
 
 <a href="https://github.com/devxb/gitanimals">
   <img
