@@ -10,6 +10,7 @@
 </a>
 
 ### about me
+👉🏻 아래 박스를 클릭하면 해당 링크로 이동합니다!
 
 <div style="margin: ; text-align: left;" "text-align: left;"> 
       <a href="https://polished-ballcap-a54.notion.site/Yunseo-Song-96ef02d8bd534296a727c479f11d2fcb?pvs=4">
